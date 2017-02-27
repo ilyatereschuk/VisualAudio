@@ -1,0 +1,11 @@
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\bin\Debug\VisualAudio.MainPoint.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\bin\Debug\VisualAudio.MainPoint.exe
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\bin\Debug\VisualAudio.MainPoint.pdb
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\obj\Debug\VisualAudio.MainPoint.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\obj\Debug\VisualAudio.MainPoint.MainWindow.resources
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\obj\Debug\VisualAudio.MainPoint.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\obj\Debug\VisualAudio.MainPoint.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\obj\Debug\VisualAudio.MainPoint.exe
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\obj\Debug\VisualAudio.MainPoint.pdb
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\bin\Debug\NAudio.dll
+C:\Users\User\documents\visual studio 2015\Projects\VisualAudio\VisualAudio.MainPoint\bin\Debug\NAudio.xml
